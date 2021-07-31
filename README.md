@@ -47,3 +47,14 @@ Supervised experiments are run via the `sup_experiment.py`.
 The experiments in my project can be re-created by execute the `run_experiments.bat`.
 
 There are also notebooks which are set to run on GPU.
+
+## Syn-Digits datasets
+
+You will need to download the Syn-Digits dataset. After this you will need to create
+a folder name `data` in which you will store this dataset.
+
+### Syn-digits
+
+Download Syn-digits from [http://yaroslav.ganin.net](http://yaroslav.ganin.net), on which you will find a Google Drive
+link to a file called `SynthDigits.zip`. Create a directory call `syndigits` within `data` and unzip `SynthDigits.zip`
+within it.
