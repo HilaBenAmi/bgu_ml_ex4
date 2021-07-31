@@ -1,0 +1,10 @@
+pandas
+numpy==1.19.2
+scipy
+scikit-learn
+scikit-image
+batchup
+bayesian-optimization==1.2.0
+opencv-python
+keras
+tensorflow
